@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfsalMadathingal
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning mern stack 
-=
+- www.afsalmadathingal.online
 
 <!---
 AfsalMadathingal/AfsalMadathingal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
