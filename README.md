@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfsalMadathingal
-- 👀 I’m interested in fullstack web development
+- 👀 MERN STACK Developer
 - 🌱 I’m currently learning mern stack 
 - www.afsalmadathingal.online
 
