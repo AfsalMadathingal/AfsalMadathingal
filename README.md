@@ -2,7 +2,7 @@
 - www.afsalmadathingal.online
 
 
-<h2 align="left">Hi 👋! My name is Afsal and I'm a MERN STACK Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Afsal and I'm a MERN STACK Developer </h2>
 
 ###
 
