@@ -56,8 +56,4 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
 
 ---
 
-## ✨ Fun Fact
 
-This `README.md` file is special because it appears on my GitHub profile! You can click the **Preview** link above to see how your changes will look before committing them.
-
-Let's build something amazing together! 🚀
