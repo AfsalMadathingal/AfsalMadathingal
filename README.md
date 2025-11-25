@@ -1,10 +1,10 @@
-# 👋 Hey there! I'm Afsal, a passionate **MERN Stack Developer** 🚀
+# Hey there! I'm Afsal, a passionate **MERN Stack Developer**
 
 Welcome to my corner of the internet! I'm thrilled to have you here. My portfolio website is [www.afsalmadathingal.online](http://www.afsalmadathingal.online), where you can explore more about my work and projects.
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I specialize in building dynamic, responsive, and scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Whether it's crafting intuitive user interfaces or developing robust backend systems, I love turning ideas into reality.
 
