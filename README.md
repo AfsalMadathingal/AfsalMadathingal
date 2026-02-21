@@ -1,6 +1,6 @@
 # Hey there! I'm Afsal, a passionate **MERN Stack Developer**
 
-Welcome to my corner of the internet! I'm thrilled to have you here. My portfolio website is [www.afsalmadathingal.online](http://www.afsalmadathingal.online), where you can explore more about my work and projects.
+Welcome to my corner of the internet! I'm thrilled to have you here.
 
 ---
 
