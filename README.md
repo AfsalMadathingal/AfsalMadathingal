@@ -47,7 +47,7 @@
 
 | Area | Skills |
 |------|--------|
-| Full Stack | MERN, Next.js, Strapi |
+| Full Stack | MERN, Next.js
 | Cloud & DevOps | AWS, GCP, DigitalOcean, Railway, Docker, CI/CD |
 | Agentic AI | Autonomous AI Workflows |
 | Design | Figma, Photoshop |
