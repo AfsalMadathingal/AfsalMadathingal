@@ -1,9 +1,9 @@
-# Hi, I'm Afsal 👋
+# Hi, I'm Afsal
 **Full Stack Developer** — I build dynamic, responsive, and scalable web apps.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <div align="left">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -43,15 +43,18 @@
 
 ---
 
-## 🚀 What I Do
-- 🧱 **Full Stack Development** — MERN , Next.js , Strapi
-- ☁️ **Cloud & DevOps** — AWS , GCP , DigitalOcean , Railway , Docker , CI/CD
-- 🤖 **Agentic AI** — Building intelligent autonomous AI workflows
-- 🎨 **Design** — Figma , Photoshop
+## What I Do
+
+| Area | Skills |
+|------|--------|
+| Full Stack | MERN, Next.js, Strapi |
+| Cloud & DevOps | AWS, GCP, DigitalOcean, Railway, Docker, CI/CD |
+| Agentic AI | Autonomous AI Workflows |
+| Design | Figma, Photoshop |
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <div align="left">
   <a href="https://www.youtube.com/channel/UCXzFLnasrvMPjx9YAajU9Rg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
